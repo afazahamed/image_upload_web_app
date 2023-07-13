@@ -105,7 +105,7 @@
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of image to fetch |
+| `id`      | `string` | **Required**. Id of image to delete |
 
 
 ##### Response
