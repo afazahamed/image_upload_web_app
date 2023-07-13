@@ -100,7 +100,7 @@
 #### Delete image by id
 
 ```http
-  DEL /api/images/${ip}
+  DEL /api/images/${id}
 ```
 
 | Parameter | Type     | Description                       |
